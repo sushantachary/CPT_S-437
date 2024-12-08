@@ -1,4 +1,4 @@
 # CPT_S-437
 Final Project Deliverables
 
-Please look at the provided viedeo on how to run this google collab.
+Deliverables are organized into clearly named folders. Please explore the folder structure for corresponding files and resources.
